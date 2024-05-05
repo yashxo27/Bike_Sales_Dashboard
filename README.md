@@ -10,4 +10,4 @@ It contains four spreadsheets:
   3) PivotTable: It contains Pivot Tables constructed from the cleaned data. This helped me create specific graphs for each dimension I wanted to put in my dashboard.
   4) Dashboard: This is the end product of the project. It contains bar graphs for the dimensions of average income, gender and income bracket, four line graphs for the dimensions age bracket, cars, commute distances and profession. It also contains three slicers for the dimensions Marital Status, Education and Region.
 
-(https://github.com/yashxo27/Bike_Sales_Dashboard/blob/main/dashboard.png)
+![Dashboard](https://github.com/yashxo27/Bike_Sales_Dashboard/blob/main/dashboard.png)
